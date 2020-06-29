@@ -1,3 +1,2 @@
-Practice project using youtube tutorials 
-
+Learning javascript
  
